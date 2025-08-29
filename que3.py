@@ -8,4 +8,8 @@ print(mylist2)
 mylist3 = [ 4.3,24.0,6.6,4.4]
 print(mylist3)
 
+# multiple datatypes 
+
+Mylist = ["Aniket",2.3,1,108,"Gitanjali"]
+print(Mylist)
 
