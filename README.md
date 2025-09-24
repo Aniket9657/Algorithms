@@ -1,4 +1,4 @@
-🚀 Algorithms and Data Structures in Python
+🚀 Algorithms and Data Structures in Python and java 
 
 This repository contains implementations of common algorithms and data structures in Python. It is designed for learning, interview preparation, and competitive programming practice.
 
